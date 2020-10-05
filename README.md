@@ -12,3 +12,14 @@
 
 
 作业说明文档：3C_Zhangxinlu/3C框架_张欣璐.docx
+
+
+
+
+游戏引擎设计第三讲课程作业
+
+作业项目源文件：3C_Zhangxinlu /office/
+
+作业场景：3C_Zhangxinlu/office/Assets/Scenes/Collider.unity
+
+作业说明文档：3C_Zhangxinlu/3C框架_张欣璐.docx

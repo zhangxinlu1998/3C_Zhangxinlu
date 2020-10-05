@@ -3,7 +3,7 @@
 游戏引擎设计第三讲课程作业
 
 
-作业项目源文件：3C_Zhangxinlu /办公室/
+作业项目源文件：3C_Zhangxinlu /office/
 
 作业场景：3C_Zhangxinlu/office/Assets/Scenes/3C Work.unity
 

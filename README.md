@@ -22,4 +22,4 @@
 
 作业场景：3C_Zhangxinlu/office/Assets/Scenes/Collider.unity
 
-作业说明文档：3C_Zhangxinlu/3C框架_张欣璐.docx
+
